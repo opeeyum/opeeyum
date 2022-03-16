@@ -19,36 +19,19 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=opeeyum&label=Profile%20views&color=0e75b6&style=flat" alt="opeeyum" /> 
 </p>
 
-<p align="left"> 
+<p> 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=opeeyum" alt="opeeyum" />
  </a> 
 </p >
 
-<!--p align="left"> 
- <a href="https://www.instagram.com/learning_too_code/" target="blank">
-  <img src="https://img.shields.io/instagram/follow/learning_too_code?logo=instagram&style=for-the-badge" alt="ltc" />
- </a> </p -->
-
-< 🌱 I'm Currently learning **Django and Django Rest Framework**>
+- 🌱 I'm Currently learning **Django and Django Rest Framework**
 
 - 👨‍💻 All of my projects are available under [Repository Section](https://github.com/opeeyum?tab=repositories)
 
-- 💬Ask me about anything related to **Python**
+- 💬 Majorly worked with **Python**
 
 - 📫 How to reach me **dummy.omprakash@gmail.com**
-
-
-<!--h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--a href="https://twitter.com/opee_yum" target="blank"><img align="center" src="https://raw.githubusercontent.com/opeeyum/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opeeyum" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/opeeyum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/opeeyum" height="30" width="40" /></a>
-<!--a href="https://instagram.com/_.vicky_joshi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vicky_joshi._" height="30" width="40" /></!--a>
- <a href="https://www.codechef.com/users/knockcat_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knockcat_1" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knockcat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knockcat" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@knockcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@knockcat" height="30" width="40" /></a>
-</p-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -72,7 +55,7 @@ Here are some ideas to get you started:
   </a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opeeyum&show_icons=true&locale=en&layout=compact" alt="opeeyum" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opeeyum&show_icons=true&locale=en&layout=compact" alt="opeeyum" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opeeyum&show_icons=true&locale=en" alt="opeeyum" /></p>
 
