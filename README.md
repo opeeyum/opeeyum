@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  </a> 
 </p >
 
-<p align="left"> 
+<!--p align="left"> 
  <a href="https://www.instagram.com/learning_too_code/" target="blank">
-  <img src="https://img.shields.io/twitter/follow/opee_yum?logo=twitter&style=for-the-badge" alt="ltc" />
+  <img src="https://img.shields.io/instagram/follow/learning_too_code?logo=instagram&style=for-the-badge" alt="ltc" />
  </a> </p -->
 
 < 🌱 I'm Currently learning **Django and Django Rest Framework**>
