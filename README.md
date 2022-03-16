@@ -15,13 +15,22 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Omprakash 😉 </h1>
 <h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=knockcat&label=Profile%20views&color=0e75b6&style=flat" alt="knockcat" /> </!--p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=opeeyum&label=Profile%20views&color=0e75b6&style=flat" alt="opeeyum" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knockcat" alt="knockcat" /></a> </p >
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=opeeyum" alt="opeeyum" />
+ </a> 
+</p >
 
-<p align="left"> <a href="https://www.instagram.com/learning_too_code/" target="blank"><img src="https://img.shields.io/twitter/follow/vishalj10483982?logo=twitter&style=for-the-badge" alt="vishalj10483982" /></a> </p -->
+<p align="left"> 
+ <a href="https://www.instagram.com/learning_too_code/" target="blank">
+  <img src="https://img.shields.io/twitter/follow/opee_yum?logo=twitter&style=for-the-badge" alt="ltc" />
+ </a> </p -->
 
-<!-- 🌱 I'm Currently learning **Dynamic Programming.** -->
+< 🌱 I'm Currently learning **Django and Django Rest Framework**>
 
 - 👨‍💻 All of my projects are available under [Repository Section](https://github.com/opeeyum?tab=repositories)
 
