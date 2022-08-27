@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Omprakash 😉 </h1>
-<h3 align="center">A Student Pursuing Bachelor of Technology in Computer Science.</h3>
+<h3 align="center">A Computer Science Engineer.</h3>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=opeeyum&label=Profile%20views&color=0e75b6&style=flat" alt="opeeyum" /> 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
  </a> 
 </p >
 
-- 🌱 I'm Currently learning **Django and Django Rest Framework**
+<!-- 🌱 I'm Currently learning **Django and Django Rest Framework**-->
 
 - 👨‍💻 All of my projects are available under [Repository Section](https://github.com/opeeyum?tab=repositories)
 
-- 💬 Majorly worked with **Python**
+<!-- 💬 Majorly worked with **Python**-->
 
-- 📫 How to reach me **dummy.omprakash@gmail.com**
+<!-- 📫 How to reach me **omprakash36mishra@gmail.com**-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
