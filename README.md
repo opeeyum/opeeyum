@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 
 [![@opeeyum's Holopin board](https://holopin.me/opeeyum)](https://holopin.io/@opeeyum)
 
-<p> 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=opeeyum" alt="opeeyum" />
- </a> 
-</p >
-
 <!-- 🌱 I'm Currently learning **Django and Django Rest Framework**-->
 
 - 👨‍💻 All of my projects are available under [Repository Section](https://github.com/opeeyum?tab=repositories)
@@ -35,8 +29,8 @@ Here are some ideas to get you started:
 
 <!-- 📫 How to reach me **omprakash36mishra@gmail.com**-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -57,8 +51,25 @@ Here are some ideas to get you started:
   </a>  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opeeyum&show_icons=true&locale=en&layout=compact" alt="opeeyum" /></p>
+<div align="center">
+    <style>
+        /* Logo Styles */
+        .logo-container {
+            text-align: center;
+            margin-top: 20px;
+            position: relative; /* Required for positioning the logo */
+        }
+        .fading-logo {
+            max-width: 50%; /* Set the maximum width to ensure optimal size */
+            height: auto; /* Maintain the aspect ratio */
+            opacity: 1;
+            transition: opacity 0.5s ease, transform 0.5s ease; /* Add a smooth transition effect for both opacity and transform */
+        }
+        .logo-container:hover .fading-logo {
+            opacity: 0.5; /* Change the opacity to the desired level when hovering */
+            transform: scale(0.9); /* Scale the logo slightly when hovering */
+        }
+    </style>
+    <img src="op_logo_fill.jpg" alt="OP" class="fading-logo">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opeeyum&show_icons=true&locale=en" alt="opeeyum" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opeeyum&" alt="opeeyum" /></p>
